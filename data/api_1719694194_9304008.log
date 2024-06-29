@@ -1,0 +1,3 @@
+2024-06-29 20:49:54,930: Creating CSV file: data/api_1719694194_9304008.csv
+2024-06-29 20:49:54,931: ThreadPoolExecutor-1_0 -- Simulating alpha: open + close
+2024-06-29 20:49:54,931: ThreadPoolExecutor-1_1 -- Simulating alpha: open - close

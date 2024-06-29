@@ -30,7 +30,6 @@ def scrape(result):
     failed = sum(check['result'] in ['FAIL', 'ERROR'] for check in result['is']['checks'])
     if failed != 0: return -1
 
-    '''
     # score check
     while True:
         compare_r = wq.get(f'https://api.worldquantbrain.com/teams/{team_id}/alphas/{aid}/before-and-after-performance')
@@ -58,7 +57,7 @@ def scrape(result):
                 break
         else:
             time.sleep(2.5)
-    '''
+ 
 
     # when scores don't matter anymore
     while True:

@@ -1,0 +1,16 @@
+2024-06-29 20:50:49,265: Creating CSV file: data/api_1719694249_2651815.csv
+2024-06-29 20:50:49,266: ThreadPoolExecutor-2_0 -- Simulating alpha: open + close
+2024-06-29 20:50:49,267: ThreadPoolExecutor-2_1 -- Simulating alpha: open - close
+2024-06-29 20:50:49,530: ThreadPoolExecutor-2_0 -- Obtained simulation link: https://api.worldquantbrain.com/simulations/1Jv0zh2qt4C99VdSoQOKWwO
+2024-06-29 20:50:49,748: ThreadPoolExecutor-2_0 -- Waiting for simulation to end (10%)
+2024-06-29 20:50:50,111: ThreadPoolExecutor-2_1 -- Obtained simulation link: https://api.worldquantbrain.com/simulations/1qdhnt7Ot4MScrZN4MvYBIV
+2024-06-29 20:50:50,330: ThreadPoolExecutor-2_1 -- Waiting for simulation to end (10%)
+2024-06-29 20:50:59,973: ThreadPoolExecutor-2_0 -- Waiting for simulation to end (15%)
+2024-06-29 20:51:00,566: ThreadPoolExecutor-2_1 -- Waiting for simulation to end (15%)
+2024-06-29 20:51:20,235: ThreadPoolExecutor-2_1 -- Waiting for simulation to end (35%)
+2024-06-29 20:51:20,432: ThreadPoolExecutor-2_0 -- Waiting for simulation to end (35%)
+2024-06-29 20:51:30,802: ThreadPoolExecutor-2_0 -- Waiting for simulation to end (80%)
+2024-06-29 20:51:31,242: ThreadPoolExecutor-2_1 -- Obtained alpha link: https://platform.worldquantbrain.com/alpha/EwZ7eMG
+2024-06-29 20:51:31,242: ThreadPoolExecutor-2_1 -- Result added to CSV!
+2024-06-29 20:51:41,338: ThreadPoolExecutor-2_0 -- Obtained alpha link: https://platform.worldquantbrain.com/alpha/37MbevP
+2024-06-29 20:51:41,338: ThreadPoolExecutor-2_0 -- Result added to CSV!
